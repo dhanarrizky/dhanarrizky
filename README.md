@@ -1,4 +1,4 @@
-[<img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="600" height="600" alt="Work Computer GIF">](https://giphy.com/gifs/pudgypenguins-work-computer-working-QDjpIL6oNCVZ4qzGs7)
+[<img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="600" height="300" alt="Work Computer GIF">](https://giphy.com/gifs/pudgypenguins-work-computer-working-QDjpIL6oNCVZ4qzGs7)
 
 
 # 💫 About Me:
@@ -24,7 +24,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=dhanarrizky&icon=2&color=3)](https://visitcount.itsvg.in)
 
-| <img src="https://media.giphy.com/media/UEJ6DQQp68LJSnyaBb/giphy.gif" width="480" height="480" /> |
+| <img src="https://media.giphy.com/media/UEJ6DQQp68LJSnyaBb/giphy.gif" width="280px" height="280px" /> |
 |:--:| 
 | [Cartoon Computer Laptop GIF](https://giphy.com/gifs/cartoon-computer-laptop-UEJ6DQQp68LJSnyaBb) |
 
