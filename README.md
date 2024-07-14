@@ -23,4 +23,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=dhanarrizky&icon=2&color=3)](https://visitcount.itsvg.in)
 
+[![Cartoon Computer Laptop GIF](https://media.giphy.com/media/UEJ6DQQp68LJSnyaBb/giphy.gif)](https://giphy.com/gifs/cartoon-computer-laptop-UEJ6DQQp68LJSnyaBb)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
