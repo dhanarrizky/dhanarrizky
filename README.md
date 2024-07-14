@@ -24,11 +24,9 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=dhanarrizky&icon=2&color=3)](https://visitcount.itsvg.in)
 
-| <img src="https://media.giphy.com/media/UEJ6DQQp68LJSnyaBb/giphy.gif" width="280" height="280" /> |
-|:--:| 
-| [Cartoon Computer Laptop GIF](https://giphy.com/gifs/cartoon-computer-laptop-UEJ6DQQp68LJSnyaBb) |
-
-[<img src="https://media.giphy.com/media/25UxpWoNBu8nOtURm9/giphy.gif" width="280" height="280" alt="No Idea What I'm Doing GIF">](https://giphy.com/gifs/pudgypenguins-no-idea-i-have-what-im-doing-25UxpWoNBu8nOtURm9)
+| <img src="https://media.giphy.com/media/UEJ6DQQp68LJSnyaBb/giphy.gif" width="280" height="280" alt="Cartoon Computer Laptop GIF"> | <img src="https://media.giphy.com/media/25UxpWoNBu8nOtURm9/giphy.gif" width="280" height="280" alt="No Idea What I'm Doing GIF"> |
+|:--:|:--:| 
+| [Cartoon Computer Laptop GIF](https://giphy.com/gifs/cartoon-computer-laptop-UEJ6DQQp68LJSnyaBb) | [No Idea What I'm Doing GIF](https://giphy.com/gifs/pudgypenguins-no-idea-i-have-what-im-doing-25UxpWoNBu8nOtURm9) |
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
