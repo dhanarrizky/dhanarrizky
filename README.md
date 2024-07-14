@@ -1,4 +1,4 @@
-[<img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="600" height="300" alt="Work Computer GIF">](https://giphy.com/gifs/pudgypenguins-work-computer-working-QDjpIL6oNCVZ4qzGs7)
+[<img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="900" height="300" alt="Work Computer GIF">](https://giphy.com/gifs/pudgypenguins-work-computer-working-QDjpIL6oNCVZ4qzGs7)
 
 
 # 💫 About Me:
@@ -24,9 +24,11 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=dhanarrizky&icon=2&color=3)](https://visitcount.itsvg.in)
 
-| <img src="https://media.giphy.com/media/UEJ6DQQp68LJSnyaBb/giphy.gif" width="280px" height="280px" /> |
+| <img src="https://media.giphy.com/media/UEJ6DQQp68LJSnyaBb/giphy.gif" width="280" height="280" /> |
 |:--:| 
 | [Cartoon Computer Laptop GIF](https://giphy.com/gifs/cartoon-computer-laptop-UEJ6DQQp68LJSnyaBb) |
+
+[<img src="https://media.giphy.com/media/25UxpWoNBu8nOtURm9/giphy.gif" width="280" height="280" alt="No Idea What I'm Doing GIF">](https://giphy.com/gifs/pudgypenguins-no-idea-i-have-what-im-doing-25UxpWoNBu8nOtURm9)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
