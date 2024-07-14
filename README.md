@@ -1,4 +1,5 @@
-[![Work Computer GIF](https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif)](https://giphy.com/gifs/pudgypenguins-work-computer-working-QDjpIL6oNCVZ4qzGs7)
+[<img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="600" height="600" alt="Work Computer GIF">](https://giphy.com/gifs/pudgypenguins-work-computer-working-QDjpIL6oNCVZ4qzGs7)
+
 
 # 💫 About Me:
 🔭 I’m currently working on Back-end Web development<br>🌱 I’m currently learning Dotnet Core, Django, Spring, Laravel, Go, C++<br>💬 Ask me about Web Development<br>⚡ Fun fact coding is a headache but that's the challenge
@@ -23,6 +24,9 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=dhanarrizky&icon=2&color=3)](https://visitcount.itsvg.in)
 
-[![Cartoon Computer Laptop GIF](https://media.giphy.com/media/UEJ6DQQp68LJSnyaBb/giphy.gif)](https://giphy.com/gifs/cartoon-computer-laptop-UEJ6DQQp68LJSnyaBb)
+| <img src="https://media.giphy.com/media/UEJ6DQQp68LJSnyaBb/giphy.gif" width="480" height="480" /> |
+|:--:| 
+| [Cartoon Computer Laptop GIF](https://giphy.com/gifs/cartoon-computer-laptop-UEJ6DQQp68LJSnyaBb) |
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
